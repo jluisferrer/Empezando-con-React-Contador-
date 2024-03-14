@@ -1,0 +1,11 @@
+.counterDesign {
+    height: 4em;
+    width: 6em;
+
+    background-color: blue;
+    border-radius: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 1em;
+}
